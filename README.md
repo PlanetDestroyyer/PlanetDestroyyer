@@ -1,7 +1,7 @@
 ![logo](https://github.com/PlanetDestroyyer/PlanetDestroyyer/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Pranav Nalawade</h1>
 <h3 align="center">1st Year Artificial Intelligence Data Science Student</h3>
-<img algin="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw0exB9v5JI0ZhHqpf8BOTy9&ust=1681305144931000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLD81Yj1of4CFQAAAAAdAAAAABAE">
+<img algin="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw0exB9v5JI0ZhHqpf8BOTy9&ust=1681305144931000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLD81Yj1of4CFQAAAAAdAAAAABAE](https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F462900780%2F0a10af70-6cbf-46df-9071-0ff586a3b1d6&tbnid=e9hPImsTmTzH1M&vet=12ahUKEwjzuYqThKL-AhVE_TgGHU1pDlMQMygDegUIARDxAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&docid=xT3pU1tmgPb2_M&w=480&h=270&q=cool%20coder%20gif&ved=2ahUKEwjzuYqThKL-AhVE_TgGHU1pDlMQMygDegUIARDxAQ)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=planetdestroyyer&label=Profile%20views&color=0e75b6&style=flat" alt="planetdestroyyer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=planetdestroyyer" alt="planetdestroyyer" /></a> </p>
