@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development,Backend,Frontend,Application Development**
 
-- 💬 Ask me about ** python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **wrieddude@gmail.com**
 
