@@ -1,6 +1,6 @@
 ![logo](https://github.com/PlanetDestroyyer/PlanetDestroyyer/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Pranav Nalawade</h1>
-<h3 align="center">1st Year Artificial Intelligence Data Science Student</h3>
+<h3 align="center">2nd Year of Artificial Intelligence Data Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=planetdestroyyer&label=Profile%20views&color=0e75b6&style=flat" alt="planetdestroyyer" /> </p>
 
