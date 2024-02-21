@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=planetdestroyyer" alt="planetdestroyyer" /></a> </p>
 
-- 🔭 I’m currently working on **Client Website**
+- 🔭 I’m currently Learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
