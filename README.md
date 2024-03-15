@@ -1,6 +1,7 @@
 # 💫 About Me:
 # Hi 👋, I'm Pranav Nalawade<br>
-A passionate Python developer and Machine Learning Engineer from India<br>🔭 I’m currently Learning Machine Learning
+## A passionate Python developer and Machine Learning Engineer from India<br>
+## 🔭 I’m currently Learning Machine Learning
 
 
 ## 🌐 Socials:
